@@ -1,4 +1,4 @@
-#### Palina Vasilets
+# Palina Vasilets
 
 Foto: 
 ============================================================================================
@@ -7,6 +7,7 @@ Foto:
 - polinavasilec@gmail.com
 - Telegram *@PolinaVasilina*
 - Discord *Polina Vasilets (@polinavasilec)*
+
 |:-------------------------------------------------------------------------------------------------
 | ***Hello, as you could read in my resume, I am not the most suitable candidate for the role of an
 | IT specialist, but this is only the first opinion. I am very easy to learn and I love to 
@@ -18,18 +19,20 @@ Foto:
 | afraid to study and am ready to work hard. Mathematical mindset and diligence will help me in 
 | this. I am already learning languages and am very interested in developing my IT skills. I am 
 | ready to accept any challenge and prove that I am a reliable specialist. Are you ready?***
+
 |:----------------------------------------------------------------------------------------------
-# *Additional qualifications:*
+
+### *Additional qualifications:*
 + JavaScript basics
 + Github User
 
-# *Education:*
+### *Education:*
 * Belarusian University of Economics. Bachelor: business management economics
 * Introduction to JavaScript. Basics
 * Preparatory stage JS/Frontend. RS School
 
-# *Experience:* Wrote this project while studying.
+### *Experience:* Wrote this project while studying.
 
-# *Code examples:*
+### *Code examples:*
 
-# *English:* Lived in Ireland, where she received a good base and practical communication skills from native speakers.
+### *English:* Lived in Ireland, where she received a good base and practical communication skills from native speakers.
