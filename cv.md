@@ -9,6 +9,7 @@ Foto:
 - Discord *Polina Vasilets (@polinavasilec)*
 
 |:-------------------------------------------------------------------------------------------------
+|
 | ***Hello, as you could read in my resume, I am not the most suitable candidate for the role of an
 | IT specialist, but this is only the first opinion. I am very easy to learn and I love to 
 | comprehend   new sciences. I studied to be an ecologist and worked as a charity worker. I learned 
@@ -19,7 +20,7 @@ Foto:
 | afraid to study and am ready to work hard. Mathematical mindset and diligence will help me in 
 | this. I am already learning languages and am very interested in developing my IT skills. I am 
 | ready to accept any challenge and prove that I am a reliable specialist. Are you ready?***
-
+|
 |:----------------------------------------------------------------------------------------------
 
 ### *Additional qualifications:*
