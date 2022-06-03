@@ -1,1 +1,1 @@
-# rsschool-cv https://github.com/polinavasilec/rsschool-cv/cv
+# rsschool-cv https://github.com/polinavasilec/rsschool-cv/
