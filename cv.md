@@ -34,4 +34,4 @@ const biglitters = (str) => {
 };
 ```
 
-### *English:* Lived in Ireland, where she received a good base and practical communication skills from native speakers.
+### *English:* I have Lived in Ireland for 8 years, where I am received a good base and practical communication skills from native speakers.
