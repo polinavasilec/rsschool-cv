@@ -15,8 +15,9 @@
   }
   * {
     box-sizing: border-box;
-  }
-  
+    border: 1px;
+    padding: 7px;
+}
   body {
     display: flex;
     flex-direction: column;
@@ -56,8 +57,7 @@
     display: flex;
     flex-wrap: wrap;
   }
-  
-  .section {
+ .section {
     width: 50%;
   }
   @media (max-width: 768px) {
@@ -76,10 +76,23 @@
     font-family: 'Fascinate-Regular';
     font-size: 20px;
     font-weight: 400;
-    text-transform: uppercase;
+    
     letter-spacing: 10px;
     color: #5e1006;
   }
+
+ .name {
+    font-family: 'Fascinate-Regular';
+    font-size: 60px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #1b0502;
+  }
+.summary{
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+}
   .nav-link {
     text-decoration: none;
     color: #180e0e;
@@ -91,4 +104,3 @@
     color: #180e0e;
     transition: color 0.5s;
   }
-  
