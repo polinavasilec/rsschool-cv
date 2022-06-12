@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="./assets/favicon.ico">
+</head>
+<body>
+    <header>
+        <div class="container header-container">
+        <nav class="nav">
+            <ul class="nav-list">
+              <li class="nav-item"><a href="#profile" class="nav-link">Profile</a></li> 
+              <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+              <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+              <li class="nav-item"><a href="#qualification" class="nav-link">Qualification</a></li>
+              <li class="nav-item"><a href="#education" class="nav-link">Education</a></li> 
+              <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+              <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+              <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+            </ul>
+          </nav>
+        </div>
+    </header>
+    
+    <main> <div class="container main-container">
+        
+        <section class="section" id="profile">
+         <h1 class="name"> Palina Vasilets</h1>
+         <img src="./assets/img/myfoto.jpg" alt="my photo" width="350" height="350">
+         <p class="section-title">Frontend developer</p>
+        </section>
+  
+        <section class="section" id="contacts">
+            <h2 class="section-title"> Contacts</h2>  
+            <ul class="Contacts">
+                <li>Mobile +48 739 659 111 <img src="../rsschool-cv/assets/img/tel.png" alt="logo phone" width="30" height="30"> </li> 
+                <li> polinavasilec@gmail.com <img src="../rsschool-cv/assets/img/gmail-.webp" alt="logo gmail" width="40" height="30"> </li> 
+                <li> <a href="https://t.me/polinavasilina">@PolinaVasilina</a> <img src="../rsschool-cv/assets/img/Telegram_.png" alt="logo telegram" width="30" height="30"> </li> 
+                <li>Discord Polina Vasilets (@polinavasilec) <img src="../rsschool-cv/assets/img/disckord.webp" alt="logo discord" width="50" height="30"> </li>
+              </ul>
+        </section>
+        
+        <section class="summary-section" id="summary">
+            <h4 class="summary">Hello, as you can read in my resume, I am not the most suitable candidate for the role of an IT specialist, but this is only the first opinion. I am very easy to learn and I love to comprehend   new sciences. I studied to be an ecologist and worked as a charity worker. I learned accounting myself, and worked for one of the leading companies in construction, doing all the stages of working with documents. I was able to write a diploma in model photography in a month and win at a city exhibition, without photography experience. I overcame the fear of driving a car by becoming a racing driver and forging a racing track. All this suggests that I am not afraid to study and am ready to work hard. Mathematical mindset and diligence will help me in this. I am already learning languages and am very interested in developing my IT skills. I am ready to accept any challenge and prove that I am a reliable specialist. Are you ready?</h4>
+        </section>
+        
+        <section class="section" id="qualification"> 
+            <h2 class="section-title"> Additional qualifications</h2>
+            <ul class="qualification">
+                <li>JavaScript basics</li> 
+                <li>Github User</li> 
+                <li>CSS basics</li> 
+                <li>HTML basics</li>
+            </ul>
+        </section>
+        
+        <section class="section" id="education">
+            <h2 class="section-title"> Education:</h2> 
+                <ul class="education">
+                <li>Belarusian University of Economics. Bachelor: business management economics</li> 
+                <li>Introduction to JavaScript. Basics</li> 
+                <li>Preparatory stage JS/Frontend. RS School</li> 
+            </ul>
+        </section>  
+        
+        <section class="section" id="projects">
+            <h2 class="section-title"> Experience</h2> 
+            <p>Wrote <a href="https://github.com/polinavasilec/rsschool-cv.git">this</a> project while studying.</p>
+            </section>
+
+            <section class="section" id="english">
+                <h2 class="section-title"> English</h2> 
+                <p>I have Lived in Ireland for 8 years, where I am received a good base and practical communication skills from native speakers.</p>
+            </section>
+
+            <section class="section" id="code">
+                <h2 class="section-title"> Code example</h2> 
+                <pre> <code>  const biglitters = (str) => {
+            let result = ''
+            for (let i=0; i &lt; str.length; i+=1) {
+                    const shouldBeBig = (i===0 || str [i - 1] === ' ');
+                    result += shouldBeBig ? toUpperCase(str [i]) : str[i]);
+                }
+            return result;
+        };  </code></pre>
+            </section>
+           
+    </div></main>
+    
+    <footer>
+    <div class="container footer-container">
+    <span>Create by <a href="https://github.com/polinavasilec" class="link-hover">Polina Vasilets</a>. 2022</span> 
+    <span><a href="https://rs.school/js/" class="link-hover">The Rolling Scopes</a> <img src="./assets/img/rsapp.png" alt="logo rsschool" width="70" height="30"></span>
+    </div>
+    </footer>
+</body>
+</html>
