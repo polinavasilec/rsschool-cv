@@ -1,2 +1,2 @@
-# rsschool-cv https://github.com/polinavasilec/rsschool-cv/
-# rsschool-cv https://github.com/polinavasilec/rsschool-cv/cv
+# rsschool-cv  https://polinavasilec.github.io/rsschool-cv/
+rsschool-cv https://polinavasilec.github.io/rsschool-cv/cv
