@@ -1,4 +1,4 @@
-@font-face {
+ @font-face {
     font-family: 'Oswald';
     src: url("/rsschool-cv/assets/fonts/Oswald.zip");
     font-weight: 100;
@@ -16,12 +16,14 @@
   * {
     box-sizing: border-box;
     border: 1px;
-    padding: 7px;
+    padding: 2px;
 }
   body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    background-color: azure;
+    margin: 50px;
   }
   .container {
     max-width: 1440px;
@@ -37,21 +39,14 @@
   }
     .nav-list {
         list-style: none;
+        background-color: #829985;
   }
   .nav-link {
-    padding: 0 20px;
+    padding: 0 40px;
     line-height: 50px;
   }
   .nav-link {
     transition: .3s;
-  }
-  .section-item a {
-    color: #829985;
-    text-decoration: none;  
-    transition: color 0.5s;
-  }
-  .section-item a:hover {
-    color: #4d2323;
   }
   .container {
     display: flex;
@@ -67,40 +62,49 @@
   }
   body {
     font-family: 'Oswald', sans-serif;
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 18px;
+    font-weight: 40;
     line-height: 2;
     color: #180e0e;
   }
   .section-title {
     font-family: 'Fascinate-Regular';
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 400;
-    
     letter-spacing: 10px;
     color: #5e1006;
   }
-
  .name {
     font-family: 'Fascinate-Regular';
-    font-size: 60px;
+    font-size: 55px;
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #1b0502;
+    padding: 5px;
+    margin: 2px;
   }
 .summary{
     text-align: justify;
     font-weight: bold;
     font-style: italic;
+    background-image: url(../assets/img/back.jpg);
+    background-repeat: no-repeat;
+    margin: 5px;
+    padding: 5px;
 }
   .nav-link {
     text-decoration: none;
     color: #180e0e;
     transition: color 0.5s;
   }
-  
   .link-hover {
     text-decoration: none;
     color: #180e0e;
     transition: color 0.5s;
   }
+  footer {
+    background-color: #829985;
+    max-width: 1440px;
+    margin: 0 auto;
+    width: 1250px;
+}
